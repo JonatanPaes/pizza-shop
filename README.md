@@ -55,3 +55,4 @@ npm run dev
 - [React](https://react.dev/)
 - [ViteJS](https://vitejs.dev/)
 - [TypeScript](https://github.com/microsoft/TypeScript)
+- [Shadcn ui](https://ui.shadcn.com/)
