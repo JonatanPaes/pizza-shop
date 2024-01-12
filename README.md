@@ -57,3 +57,4 @@ npm run dev
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [Shadcn ui](https://ui.shadcn.com/)
 - [React Router](https://reactrouter.com/en/main)
+- [React Helmet](https://github.com/staylor/react-helmet-async#readme)
