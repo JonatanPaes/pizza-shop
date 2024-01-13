@@ -60,3 +60,4 @@ npm run dev
 - [React Helmet](https://github.com/staylor/react-helmet-async#readme)
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev/)
+- [Sonner](https://sonner.emilkowal.ski/)
