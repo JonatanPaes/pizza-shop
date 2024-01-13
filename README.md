@@ -58,3 +58,5 @@ npm run dev
 - [Shadcn ui](https://ui.shadcn.com/)
 - [React Router](https://reactrouter.com/en/main)
 - [React Helmet](https://github.com/staylor/react-helmet-async#readme)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
