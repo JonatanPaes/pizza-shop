@@ -61,3 +61,4 @@ npm run dev
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev/)
 - [Sonner](https://sonner.emilkowal.ski/)
+- [Recharts](https://recharts.org/en-US/)
