@@ -62,3 +62,5 @@ npm run dev
 - [Zod](https://zod.dev/)
 - [Sonner](https://sonner.emilkowal.ski/)
 - [Recharts](https://recharts.org/en-US/)
+- [Axios](https://axios-http.com/)
+- [React Query](https://tanstack.com/query/latest)
