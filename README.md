@@ -65,3 +65,6 @@ npm run dev
 - [Axios](https://axios-http.com/)
 - [React Query](https://tanstack.com/query/latest)
 - [Date-fns](https://date-fns.org/)
+- [Vitest](https://vitest.dev/)
+- [Testing Library](https://testing-library.com/)
+- [Happy Dom](https://github.com/capricorn86/happy-dom)
