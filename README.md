@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- Pizza Shop é uma aplicação para simplificar a gestão do seu restaurante dentro do aplicativo de delivery, como o iFood. Este dashboard foi desenvolvido com o intuito de proporcionar aos lojistas uma visão abrangente e intuitiva das métricas do seu estabelecimento, promovendo uma tomada de decisão mais informada e eficiente.
+ Pizza Shop é uma aplicação para simplificar a gestão do seu restaurante dentro do aplicativo de delivery. Este dashboard foi desenvolvido com o intuito de proporcionar aos lojistas uma visão abrangente e intuitiva das métricas do seu estabelecimento, promovendo uma tomada de decisão mais informada e eficiente.
 </p>
 
 <p align="center">
