@@ -68,3 +68,4 @@ npm run dev
 - [Vitest](https://vitest.dev/)
 - [Testing Library](https://testing-library.com/)
 - [Happy Dom](https://github.com/capricorn86/happy-dom)
+- [MSW](https://mswjs.io/)
