@@ -48,7 +48,7 @@ npm run dev
 ```
 
 <p align="center">
-  <img alt="Demonstration web" src="./preview/" width="100%" height="100%" />
+  <img alt="Demonstration web" src="./preview/pizza-shop.gif" width="100%" height="100%" />
 </p>
 
 # Tecnologias
