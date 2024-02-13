@@ -29,7 +29,7 @@ git clone https://github.com/JonatanPaes/pizza-shop.git
 Para executar o projeto
 
 ```bash
-cd pizzashop-web
+cd pizza-shop
 ```
 
 Instale as dependências do projeto
